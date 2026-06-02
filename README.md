@@ -8,7 +8,7 @@ An interactive **4-page Financial Dashboard** built with Microsoft Power BI, ana
 
 ### 🏠 Index Page
 
-![Index Page](Screenshots/index.png)
+![Index Page]("C:\Users\Vinit\OneDrive\Desktop\My Data Analytics Projects\Financial Report- PowerBI\Screenshots\index.png")
 
 ### 📈 Sales Report
 
