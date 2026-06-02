@@ -8,7 +8,7 @@ An interactive **4-page Financial Dashboard** built with Microsoft Power BI, ana
 
 ### 🏠 Index Page
 
-![Index Page](screenshots/index.png)
+![Index Page](index.png)
 
 ### 📈 Sales Report
 
