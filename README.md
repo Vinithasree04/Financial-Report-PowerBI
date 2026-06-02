@@ -160,27 +160,14 @@ Built on the **Microsoft Financials** sample dataset with the following key fiel
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to:
 
-- 🐛 Open an issue for bugs or suggestions
-- 🍴 Fork the repo and submit a pull request
+## 👩‍💻 About Me
+A Vinitha Sree 
+--Aspiring Data Analyst passionate about turning data into meaningful insights using Excel, Power BI, and SQL.
 
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- 🐙 GitHub: [Vinitha_github](https://github.com/Vinithasree04)
+- 💼 LinkedIn: [Vinitha-linkedin](www.linkedin.com/in/vinithasree)
 
 ---
 
