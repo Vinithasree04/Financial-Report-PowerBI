@@ -8,19 +8,19 @@ An interactive **4-page Financial Dashboard** built with Microsoft Power BI, ana
 
 ### 🏠 Index Page
 
-![Index Page](screenshots/index.png)
+![Index Page](index.png)
 
 ### 📈 Sales Report
 
-![Sales Report](screenshots/Sales.png)
+![Sales Report](Sales.png)
 
 ### 💰 Profit Report
 
-![Profit Report](screenshots/profit.png)
+![Profit Report](Profit.png)
 
 ### 📦 Units Sold Report
 
-![Units Sold Report](screenshots/unitsSold.png)
+![Units Sold Report](UnitsSold.png)
 
 >
 
