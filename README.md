@@ -8,19 +8,19 @@ An interactive **4-page Financial Dashboard** built with Microsoft Power BI, ana
 
 ### 🏠 Index Page
 
-![Index Page](Screeshots/index.png)
+![Index Page](screeshots/index.png)
 
 ### 📈 Sales Report
 
-![Sales Report](Screenshots/Sales.png)
+![Sales Report](screenshots/Sales.png)
 
 ### 💰 Profit Report
 
-![Profit Report](Screenshots/Profit.png)
+![Profit Report](screenshots/Profit.png)
 
 ### 📦 Units Sold Report
 
-![Units Sold Report](Screenshots/UnitsSold.png)
+![Units Sold Report](screenshots/UnitsSold.png)
 
 >
 
@@ -113,7 +113,7 @@ Built on the **Microsoft Financials** sample dataset with the following key fiel
 
 ### Prerequisites
 
-- [Microsoft Power BI Desktop]([https://powerbi.microsoft.com/desktop/](https://www.microsoft.com/en-us/download/details.aspx?id=58494)) — Free download
+- [Microsoft Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) — Free download
 
 ### Steps to Open
 
